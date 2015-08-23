@@ -6,9 +6,10 @@ namespace MiniGame
 {
 	public enum GameActorType
 	{
+
 		TypeWater,
 		TypeFire,
-		TypeWood
+		TypeWood,
 	}
 
 
